@@ -10,5 +10,6 @@ import com.sipm.bcf.app.NMainFrame2;
 public class Login {
     public static void main(String[] args) {
         NMainFrame2.main(args);
+        System.out.println("≤‚ ‘");
     }
 }
